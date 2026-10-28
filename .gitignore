@@ -1,0 +1,11 @@
+# Maven build output
+game-backend/target/
+
+# Local runtime and debug data
+gp_debug.log
+save_game.dat
+
+# IDE metadata
+.idea/
+*.iml
+.vscode/
